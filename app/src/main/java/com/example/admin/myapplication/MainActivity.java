@@ -14,10 +14,6 @@ public class MainActivity extends Activity {
 
         // dev   change
 
-
-        // dev change 3
-
-
         // adu change 1
     }
 }
