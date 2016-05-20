@@ -12,8 +12,8 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
 
-        // dev   change
+        // dev   ch222ange   222
 
-        // adu change 1
+        // adu change
     }
 }
