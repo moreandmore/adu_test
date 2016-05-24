@@ -11,6 +11,20 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//       dev master   change   merge
+//       dev master   change newwww  merge
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // change value       newwwwww
     }
 }
